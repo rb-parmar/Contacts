@@ -1,3 +1,3 @@
 ## Contacts Project
 
-Click [here]() to view my project.
+Click [here](https://rb-parmar.github.io/Contacts/) to view my project.
